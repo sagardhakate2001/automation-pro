@@ -1,0 +1,144 @@
+
+*{ 
+    padding:0;
+    margin:0;
+}
+body {
+    /* background-color:aqua; */
+
+    background-image:url("main long img.jpg");
+    background-size:auto;
+}
+
+#top1
+{
+height:75px;
+width:100%;
+color:rgb(0,255,255);
+background-color: rgb(59, 59, 248);
+font-weight:bolder;
+font-size:30px;
+position:fixed;
+display:inline;
+
+
+
+
+}
+
+#nav-bar
+{
+    background-color:cornflowerblue;
+    height:150px;
+    position:fixed;
+    top:75px;
+    display:block;
+}
+
+#logo {
+    color:rgb(0,255,255);
+    font-size:100px;  
+font-weight:bolder;
+}
+a{
+margin-right:500px;
+font-weight:100px;
+font-size:50px; 
+
+}
+#input
+{
+height:75px;
+width:1000px;
+border-radius:30px;
+font-size:50px;
+padding-left:150px;
+
+}
+#search
+{
+background-color:gold;
+height:75px;
+width:100px;
+border-radius:50%;
+font-size:25px;
+}
+H1
+{text-align :center;
+    text-decoration :double
+
+    
+}
+#main
+{
+    display:inline-block;
+    
+
+    
+}
+
+
+.pic
+{
+    background-color:aliceblue;
+    border-width:15px;
+    border-style:solid;
+    
+    margin:500px;
+    border-color:rgb(0, 0, 0);
+    height:1000px;
+    width:1000px;
+
+}
+
+
+#div-2
+{
+    position:absolute;
+    z-index:-1;
+
+    top:10px;
+    right:20px;
+    display:inline-block;
+
+   
+    
+}
+.pic-si
+{
+    background-color:aliceblue;
+    border-width:15px;
+    border-style:solid;
+    margin:500px;
+    border-color:rgb(0, 0, 0);
+    height:1000px;
+    width:2000px;
+
+    
+    
+
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button
+{
+     color:#f20303;
+     background-color :chartreuse;
+}
+
+
